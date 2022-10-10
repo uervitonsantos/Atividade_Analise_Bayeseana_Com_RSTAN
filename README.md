@@ -1,6 +1,6 @@
-# Atividade_Analise_Bayseana_Com_RSTAN
+# Atividade_Analise_Bayeseana_Com_RSTAN
 
-Atividade de analise inferencial Bayseana com RStan aplicado em um conjundo de dados de confiabilidade de motores
+Atividade de analise inferência Bayesiana com RStan aplicado em um conjundo de dados de confiabilidade de motores
 Tutorial de referencia: https://ourcodingclub.github.io/tutorials/stan-intro/
 
 Bayesian Model with RStan: https://www.kaggle.com/code/dhafer/bayesian-model-with-rstan
