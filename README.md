@@ -6,7 +6,7 @@ Poisson regression in Stan: https://rpubs.com/kaz_yos/stan-pois1
 
 Negative Binomial Distribution: https://rpubs.com/mpfoley73/458738
 
-Estatística Bayesiana com R e Stan. prof. José Eduardo Storopoli: https://www.youtube.com/watch?v=m_kJwaL2KHQ&list=PLpTXaEnTpmwNwBwwwLTDmCLekoUPtc0cP&index=10
+Estatística Bayesiana com R e Stan. prof. Dr. José Eduardo Storopoli: https://www.youtube.com/watch?v=m_kJwaL2KHQ&list=PLpTXaEnTpmwNwBwwwLTDmCLekoUPtc0cP&index=10
 
 Aula Inferência Bayesiana com prof. Gustavo Ferreira: https://www.youtube.com/watch?v=YKZ1euMRsbs&list=PL5nbzsxqG2FPrVmqbLafXqOrE3djThquN
 
